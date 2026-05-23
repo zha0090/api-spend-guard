@@ -151,5 +151,3 @@ Contributions are welcome, especially new provider adapters and reliability impr
 ## License
 
 This project is licensed under **AGPLv3**. See `LICENSE` for details.
-
-If you need to embed this in a proprietary product, contact the maintainers about commercial licensing options.
